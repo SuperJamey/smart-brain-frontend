@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SuperJamey/smart-brain-frontend.git/static/css/main.6aefab64.css",
+    "main.js": "/SuperJamey/smart-brain-frontend.git/static/js/main.2bcf737f.js",
+    "index.html": "/SuperJamey/smart-brain-frontend.git/index.html",
+    "main.6aefab64.css.map": "/SuperJamey/smart-brain-frontend.git/static/css/main.6aefab64.css.map",
+    "main.2bcf737f.js.map": "/SuperJamey/smart-brain-frontend.git/static/js/main.2bcf737f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aefab64.css",
+    "static/js/main.2bcf737f.js"
+  ]
+}
